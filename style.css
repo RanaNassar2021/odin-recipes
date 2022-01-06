@@ -1,0 +1,28 @@
+
+*{background-color: #004643;}
+h1{text-align: center; color: #dfa03f; font-size: 220%;}
+#pic{background-image: url(home.jpg); background-repeat: no-repeat;
+     height: 55vh;width: 100%; background-position: center;
+      background-size: cover;  }
+
+ #pic1{background-image: url(recipes/mayo-chicken.jpg);
+     background-repeat: no-repeat; 
+        height: 55vh;width: 100%; background-position: center;
+         background-size: cover;  }  
+
+   #pic2{background-image: url(recipes/beef.jpg);
+            background-repeat: no-repeat; 
+               height: 55vh;width: 100%; background-position: center;
+                background-size: cover;  } 
+         
+    #pic3{background-image: url(recipes/Lasagna.jpg);
+            background-repeat: no-repeat; 
+               height: 55vh;width: 100%; background-position: center;
+                background-size: cover;  }     
+
+#pages{display: inline-block; margin-left: 30%; text-align: center;}  
+ul{list-style-type:none ;}
+li{font-size: 150%;color: #dfa03f;}
+a{color: #dfa03f;}
+.content{text-align: center;}
+.title{font-size: 180%; text-decoration: underline;color: #cc8b86;}
